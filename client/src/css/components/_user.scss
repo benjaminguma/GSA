@@ -1,0 +1,80 @@
+.user {
+  &_nav {
+    font-size: 1.6rem;
+    padding: 2rem 0.8rem;
+  }
+  &_nav_link {
+    &_text {
+      align-self: flex-start;
+    }
+
+    &_img {
+      display: inline;
+      fill: currentColor;
+      order: -1;
+      line-height: 0;
+    }
+    &.logout {
+      &:link {
+        border: 1px solid darken($col-white-1, 6%);
+        padding: 1rem 1.5rem;
+        margin-top: 1.5rem;
+        text-align: center;
+      }
+      &:hover {
+        background: darken($col-white-1, 1%);
+      }
+    }
+    &:link,
+    &:visited {
+      padding: 0.6rem 1.5rem;
+      border-radius: $border-rad-1;
+    }
+
+    &:hover {
+      background: lighten($col-white-1, 1.2%);
+    }
+  }
+
+  &_det {
+    display: grid;
+    padding: 7px 15px 7px 4px;
+    grid-template-columns: max-content 1fr;
+    grid-template-rows: max-content 1fr;
+    border-radius: $border-rad-1;
+    column-gap: 1rem;
+    align-items: start;
+    grid-template-areas:
+      "image mat"
+      "image name";
+    &:hover {
+      background-color: lighten($col-white-1, 1%);
+    }
+
+    .matric {
+      font-size: 1.5rem;
+      grid-area: mat;
+    }
+    .name {
+      font-size: 1.2rem;
+      grid-area: name;
+    }
+    &_image {
+      display: grid;
+      box-sizing: content-box;
+      width: 4.5rem;
+      height: 4.5rem;
+      border-radius: 50%;
+      position: relative;
+      grid-area: image;
+
+      span {
+        position: absolute;
+
+        display: inline-block;
+        margin: auto;
+        font-size: 2.4rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+.switch {
+  width: 6.5rem;
+  height: 3rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 100px;
+  position: relative;
+  background-color: hsl(0, 90%, 59%);
+  &_check {
+    display: none;
+  }
+
+  & span,
+  &::before,
+  &::after {
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    color: $col-white;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+  }
+  &::before {
+    content: "on";
+    left: 0;
+    margin-left: 0.7rem;
+  }
+  &::after {
+    content: "off";
+    right: 0;
+    margin-right: 0.7rem;
+  }
+
+  &.on {
+    background-color: hsl(84, 48%, 59%);
+    &::after {
+      content: "";
+    }
+
+    span {
+      right: -2.4%;
+      left: initial;
+    }
+  }
+
+  span {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: $col-white;
+    transition: 0.3s linear;
+    box-shadow: 0.5rem 0.5rem 1.5rem 0.5rem rgba(0, 0, 0, 0.06),
+      inset 1rem 0.1rem 1rem rgba(0, 0, 0, 0.02);
+    left: -2.4%;
+    right: initial;
+  }
+}

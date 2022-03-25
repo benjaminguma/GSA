@@ -1,0 +1,106 @@
+.step {
+  width: 2.3rem;
+  height: 2.3rem;
+  border-radius: 50%;
+  position: relative;
+  z-index: 2;
+  $shadow: 0 -5px 3px 6px rgba($col-black, 0.01);
+
+  span {
+    font-weight: 900;
+  }
+
+  &.off {
+    box-shadow: $shadow, 0 0 1px 3px darken($col-white-1, 3%);
+    background-color: lighten($col-white-1, 0.7%);
+    // .on.active
+    &::before {
+      background: darken($col-white-1, 2%);
+      border: 1px solid darken($col-white-1, 3%);
+    }
+
+    span {
+      color: $col-blue;
+      display: inline-block;
+    }
+    svg {
+      display: none;
+    }
+  }
+
+  &.active {
+    box-shadow: $shadow, inset 0 0 1px 3px $col-blue;
+
+    &::before {
+      background: $col-blue;
+      border: none;
+    }
+    &::after {
+      font-size: 1.3rem;
+      font-weight: 700;
+    }
+
+    & > * {
+      display: none;
+    }
+  }
+  &.done {
+    box-shadow: none;
+    background-color: $col-green;
+
+    &::before {
+      background: $col-green;
+      border: none;
+    }
+    &::after {
+      display: none;
+    }
+
+    span {
+      display: none;
+    }
+    svg {
+      display: block;
+      fill: $col-white;
+    }
+  }
+
+  svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: block;
+    line-height: 0;
+  }
+
+  &::before,
+  &::after {
+    content: "";
+    position: absolute;
+  }
+  &:last-child::before {
+    display: none;
+  }
+  &::before {
+    width: 6.5rem;
+    top: 50%;
+    left: 97%;
+    height: 5px;
+    box-shadow: 0 0 2px rgba($col-blue, 0.06);
+    border-right-color: transparent;
+    border-left-color: transparent;
+    z-index: 0;
+    transform: translateY(-50%);
+  }
+  &::after {
+    content: attr(data-title);
+    width: 450%;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 5px;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    font-weight: 300;
+    color: $col-blue;
+  }
+}

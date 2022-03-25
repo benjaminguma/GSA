@@ -1,0 +1,164 @@
+@import "abstract/_abstract.scss";
+[class~="btn"],
+[class^="btn"] {
+	transition: $transition;
+	cursor: pointer;
+	// this is for buttons with an svg too
+	&:active {
+		transform: translateY(2px);
+		box-shadow: 0 0px 5px rgba(0, 0, 0, 0.03);
+	}
+}
+.btn {
+	&_uline {
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+
+	&_med {
+		padding: 1em 2em;
+	}
+	&_wide {
+		padding: 1.2em 2.9em;
+	}
+	&_large {
+		padding: 1.1em 3em;
+	
+	}
+
+	&_red{
+		background-color: #FF0000;
+		color: $col-white-1;
+	}
+
+	&_bord,
+	&_blue {
+		&,
+		&:link,
+		&:visited {
+			color: $col-white-1;
+			font-weight: $weight-2;
+			transition: $transition linear;
+		}
+
+		&:hover {
+			transform: translateY(-1px);
+		}
+		&:active {
+			transform: translateY(2px);
+		}
+	}
+
+	&_plain {
+		&:hover,
+		&.active {
+			transform: none;
+			background-color: transparent;
+			fill: $col-blue;
+			color: $col-blue;
+			transition: $transition linear;
+		}
+	}
+
+	&_bord {
+		border: 2px solid lighten($col-blue, 15%);
+	}
+	&_blue {
+		background-color: $col-blue;
+
+		&:hover {
+			background-color: darken($col-blue, 5%);
+		}
+	}
+
+
+
+	&_diabled {
+		background-color: $col-gray-dis;
+		color: $col-white;
+	}
+}
+
+.btn_icon {
+	svg {
+		fill: currentColor;
+		margin-right: 1.5rem;
+		display: inline-block;
+	}
+}
+.badge {
+	text-align: center;
+	display: inline-block;
+	padding: 0.3rem 0.5rem;
+	color: $col-white;
+
+	&_ash {
+		color: $col-black-1;
+		background-color: $col-bord-1;
+	}
+	&_red {
+		background-color: $col-red;
+		color: $col-white-1;
+	}
+	&_blue {
+		background-color: $col-blue;
+	}
+	&.big {
+		font-size: 1.6rem;
+	}
+}
+
+.btn_txt {
+	background-color: transparent;
+	position: relative;
+	transition: linear $transition;
+	&::before {
+		content: "";
+		position: absolute;
+		width: 100%;
+		height: 1px;
+		background-color: currentColor;
+		bottom: -2px;
+		border-radius: $border-rad-1;
+	}
+	&:hover::before {
+		transform: translateY(2px);
+	}
+}
+
+.circle {
+	&_btn {
+		align-items: center;
+		transition: $transition ease;
+
+		&:hover {
+			transform: translateY(-2px);
+			box-shadow: 0 1px 1.4rem $shadow;
+		}
+
+		&:hover .circle_text {
+			color: $col-gray-1;
+		}
+	}
+	&_color {
+		width: 3rem;
+		height: 3rem;
+	}
+	&_text {
+		padding: 0.8rem 1.3rem 0.8rem 1rem;
+	}
+}
+// .badge_green {
+// 	background-color: rgba($col-green, 0.1);
+// }
+// .badge_blue {
+// 	background-color: rgba($col-blue, 0.05);
+// }
+// .badge_red {
+// 	background-color: rgba($col-red, 0.05);
+// 	border: 2px solid rgba($col-red, 0.02);
+// }
+// .badge_blue {
+// 	background-color: rgba($col-blue, 0.05);
+// }

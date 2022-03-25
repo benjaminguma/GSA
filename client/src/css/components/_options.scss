@@ -1,0 +1,72 @@
+.option {
+  position: absolute;
+  right: 2.5rem;
+  top: 50%;
+  z-index: 5;
+  display: inline;
+  transform: translateY(-50%);
+  cursor: pointer;
+  &_toggle {
+    display: inline-block;
+
+    &_icon {
+      fill: currentColor;
+      height: 2.2rem;
+      width: 2.2rem;
+      transform: rotate(90deg) scale(1.3);
+      transition: $transition;
+
+      &:hover {
+        fill: $col-blue;
+        cursor: pointer;
+      }
+      &:active {
+        transform: rotate(90deg) scale(1.1);
+      }
+    }
+  }
+
+  &_box {
+    border-radius: $border-rad;
+    box-shadow: 0 0.75rem 1.5rem 8px rgba($col-black-1, 0.04);
+    z-index: 500;
+    min-width: 17rem;
+    bottom: initial;
+    top: 100%;
+    transform: translateX(-50%) translateY(2rem);
+
+    &::before {
+      right: 45%;
+    }
+  }
+  input[type="radio"] {
+    display: none;
+  }
+  input[type="radio"]:checked ~ &_box {
+    display: block;
+  }
+  input[type="radio"]:checked + &_toogle {
+  }
+
+  &_icon {
+    fill: currentColor;
+    width: 2rem;
+    height: 2rem;
+    margin-right: 0.6rem;
+  }
+
+  &_link {
+    padding: 0.8rem 0.8rem;
+    display: flex;
+    align-items: center;
+    transition: 0.13s linear;
+    &:link,
+    &:visited {
+      color: lighten($col-gray-dark, 3%);
+    }
+
+    &:hover {
+      color: $col-blue;
+    }
+  }
+}

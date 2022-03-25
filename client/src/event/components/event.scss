@@ -1,0 +1,70 @@
+@import 'abstract/_abstract.scss';
+.event {
+	&_con {
+		position: relative;
+	}
+	&_day{
+		padding: 6px 1.5rem;
+		font-size: 1.3em;
+		font-weight: $weight-2;
+
+	}
+	&_color {
+		position: absolute;
+		left: 0;
+		right: 0;
+		height: 5px;
+		border-radius: 5px 5px 0 0;
+	}
+
+	&_details,
+	&_link {
+		padding: 1.2rem 1rem;
+	}
+
+	&_link {
+		border-radius: 0 0 5px 5px;
+		&:hover &_button {
+			transform: translateX(5px);
+		}
+	}
+
+	&_link_button {
+		transition: $transition linear;
+	}
+}
+
+.action {
+	&_pack {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		gap: 5px;
+	}
+}
+
+.base_dropdown {
+	position: relative;
+	border-radius: 20px 20px 0 0;
+	display: grid;
+	padding-top: 4rem;
+	padding-bottom: 2rem;
+	border: 1px solid rgba($col-bord-2, 0.5);
+
+	&_close {
+		position: absolute;
+		padding: 7px !important;
+		width: 70%;
+		background-color: rgba($color: $col-blue, $alpha: 0.08);
+		top: 2rem;
+		left: 50%;
+		right: 50%;
+		transform: translate(-50%, -50%);
+	}
+
+	button {
+		text-transform: capitalize;
+		padding: 1rem 2rem;
+		font-weight: $weight-2;
+	}
+}

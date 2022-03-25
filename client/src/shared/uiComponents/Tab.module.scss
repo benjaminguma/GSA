@@ -1,0 +1,18 @@
+@import 'abstract/_abstract.scss';
+.tab {
+	&_active {
+		border-bottom: 4px solid $col-blue;
+	}
+	&_item {
+		padding: 0.7em 1.2em;
+		flex: 1;
+		&:hover {
+			color: $col-blue;
+		}
+	}
+
+	&_container {
+		min-width: 90vw;
+		display: flex;
+	}
+}

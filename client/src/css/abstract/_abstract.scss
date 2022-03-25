@@ -1,0 +1,101 @@
+// $col-gray-1: #c4c5c8;
+$col-gray-dis: #d4d4d4;
+$col-white: #fff;
+$col-white-1: #f5f9fc;
+
+$col-black: #000;
+$col-black-1: hsl(227, 24%, 27%);
+$col-black-2:#07141B;
+
+$col-gray-1: #8494a4;
+$col-gray-2: hsl(180, 8%, 82%);
+$col-gray-3: hsl(200, 12%, 83%);
+$col-gray-4: #f1f3f4;
+$col-gray-dark: #888;
+
+$col-bord-1: hsl(213, 80%, 92%);
+$col-bord-2: hsl(200, 70%, 94%);
+
+$col-blue-light-1: hsl(217, 89%, 88%);
+$col-blue-light: hsl(217, 57%, 96%);
+
+$col-white-3: #f7f7f7;
+$shadow: rgba(197, 192, 249, 0.2);
+$shadow-1: 0 0.75rem 1rem rgba(18, 38, 63, 0.1);
+
+$col-purple: #985bff;
+$col-blue-1: #506cae;
+$col-blue: #519ffc;
+$col-blue-2: hsl(213, 58%, 79%);
+$col-blue1:#143348;
+$col-green: #21d17c;
+$col-green-light: hsl(151, 79%, 79%);
+$gold: #ffe033;
+$col-red: #ff6161;
+$col-red-light: hsl(0, 69%, 63%);
+$purp: #e459e4;
+//$col-red: hsl(0, 100%, 69%);
+$border-rad: 5px;
+$border-rad-1: 100px;
+
+$transition: 0.11s;
+$grad-green: linear-gradient(
+	45deg,
+	darken($col-green, 10%),
+	darken($col-green, 5%),
+	$col-green
+);
+
+$weight-1: 400;
+$weight-2: 600;
+$weight-3: 700;
+
+@mixin gen-shadow($color: $shadow) {
+	box-shadow: 0 20px 10px -15px $color;
+}
+
+@mixin center-abs {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+@mixin center-flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@mixin respond($device) {
+	@if ($device== tab_land) {
+		@media (min-width: 1000/16 * 1em) {
+			@content;
+		}
+	} @else if ($device== tab_port) {
+		@media (min-width: 768/16 * 1em) {
+			@content;
+		}
+	} @else if ($device== gsm) {
+		@media (min-width: 480/16 * 1em) {
+			@content;
+		}
+	} @else if ($device== large_pc) {
+		@media (min-width: 1200/16 * 1em) {
+			@content;
+		}
+	} @else {
+		@media (min-width: #{$device /16 }em) {
+			@content;
+		}
+	}
+}
+@keyframes fadein {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}

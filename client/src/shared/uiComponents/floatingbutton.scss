@@ -1,0 +1,26 @@
+@import '../../css/abstract/abstract';
+.fl_btn {
+	&_pack {
+		button {
+			border: 2px solid $col-gray-4;
+		}
+	}
+	&_con {
+		position: fixed;
+		bottom: 3rem;
+		right: 3rem;
+		display: grid;
+		justify-items: end;
+	}
+	&_round {
+		background-color: hsl(202, 70%, 60%);
+		width: 5rem;
+		height: 5rem;
+		&:hover {
+			svg {
+				transition: 0.1s linear;
+				transform: scale(0.85);
+			}
+		}
+	}
+}

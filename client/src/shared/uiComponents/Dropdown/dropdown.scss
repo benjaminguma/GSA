@@ -1,0 +1,28 @@
+@import 'abstract/abstract';
+.dropdown {
+	&_toggle {
+		svg {
+			&:hover {
+				fill: $col-blue;
+			}
+		}
+	}
+	&_button {
+		text-align: left;
+		padding: 0.7rem 0;
+		display: block;
+		width: 100%;
+	}
+	&_base {
+		box-shadow: 2px 2px 1px rgba(#666, 0.1);
+		top: 100%;
+		transform: translateX(-50%);
+		border: 2px solod $col-bord-1;
+		z-index: 3;
+	}
+	&_list {
+		min-width: 16rem;
+		padding: 1.5rem;
+		display: grid;
+	}
+}

@@ -1,0 +1,25 @@
+@import "abstract/_abstract";
+.basecard {
+	position: absolute;
+	background-color: $col-white;
+	min-width: 27rem;
+	min-height: auto;
+	border-radius: $border-rad;
+	z-index: 1;
+	transform: translateY(100%) translateX(-50%);
+
+	&::before {
+		content: "";
+		position: absolute;
+		z-index: -1;
+		width: 0;
+		height: 0;
+		width: 2.7rem;
+		height: 2.7rem;
+		background-color: $col-white;
+		border-top-right-radius: $border-rad;
+		top: 0;
+		right: 50%;
+		transform: translateY(-50%) rotate(45deg);
+	}
+}

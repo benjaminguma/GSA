@@ -1,0 +1,54 @@
+[class^='sk_'] {
+	background-image: linear-gradient(
+		90deg,
+		hsl(0, 1%, 82%) 40%,
+		hsl(0, 0%, 86%) 42%,
+		hsl(0, 0%, 86%) 48%,
+		hsl(0, 1%, 82%) 53%
+	);
+	background-size: 170% 150%;
+	background-position: center;
+	animation: resonate 2s infinite both;
+	margin-bottom: 0.7rem;
+}
+.sk {
+	&_circle {
+		width: 5.5rem;
+		height: 5.5rem;
+		border-radius: 50%;
+	}
+
+	&_text {
+		width: 90%;
+		&,
+		&_short,
+		&_long {
+			border-radius: 100px;
+			padding: 1rem;
+		}
+
+		&_short {
+			max-width: 15ch;
+		}
+		&_long {
+			width: 25ch;
+		}
+		&_large {
+			width: 25ch;
+			padding: 2.3rem 0;
+		}
+		&_med {
+			padding: 1.5rem;
+		}
+	}
+}
+
+@keyframes resonate {
+	from {
+		background-position: right;
+	}
+
+	to {
+		background-position: left;
+	}
+}

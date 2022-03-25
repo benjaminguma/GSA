@@ -1,0 +1,190 @@
+@import "abstract/abstract";
+@import "./form.scss";
+.filter_form {
+	background-color: $col-white;
+	display: grid;
+	padding: 3rem 1rem;
+	box-shadow: 0 0.75rem 1.5rem rgba($col-black, 0.07);
+	padding-bottom: 2rem;
+	grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+	gap: 1.7rem;
+
+	&_controls {
+		grid-column: 1/-1;
+	}
+
+	.form_group {
+		label {
+			font-size: 1.7rem;
+			padding: 0;
+		}
+	}
+}
+
+.form_select {
+	position: relative;
+	cursor: pointer;
+
+	&_title {
+		@extend .form_input;
+		position: relative;
+		margin-top: 0.7rem;
+		padding-right: 4rem;
+
+		&:focus,
+		&:hover {
+			border: 1px solid $col-blue;
+		}
+
+		&.open::before {
+			transform: translateY(-50%) translateX(-50%)
+				rotate(-90deg);
+		}
+
+		&::before {
+			content: "";
+			position: absolute;
+			right: 2rem;
+			top: 50%;
+			transition: 0.13s linear;
+			transform: translateY(-50%) translateX(-50%)
+				rotate(-135deg);
+			width: 8px;
+			height: 8px;
+			right: 1rem;
+			box-shadow: inset -2px -2px 0 $col-blue;
+		}
+
+		&.close::before {
+			transform: translateY(-75%) translateX(-50%)
+				rotate(45deg);
+		}
+		&.open::before {
+			transform: translateY(-50%) translateX(-50%)
+				rotate(-135deg);
+		}
+		span.pl {
+			color: lighten($col-gray-dark, 30%);
+		}
+	}
+	&_list {
+		box-shadow: 0 0.75rem 1.5rem rgba($col-black, 0.07);
+		overflow-y: scroll;
+		min-height: 7rem;
+		max-height: 17rem;
+		&.short {
+			overflow-y: hidden;
+		}
+	}
+	& > .basecard {
+		margin-top: 0.7rem;
+		min-height: 15rem;
+		transform: unset;
+		top: 100%;
+		left: 0;
+		// display: block;
+		z-index: 4;
+		min-width: unset;
+		background-color: transparent;
+		width: 100%;
+		&::before {
+			display: none;
+		}
+	}
+
+	&_option {
+		color: lighten($col-gray-dark, 4%);
+		&,
+		&_check {
+			padding: 0.8rem 1rem;
+			cursor: pointer;
+		}
+
+		&:hover,
+		&.selected {
+			background-color: $col-white-1;
+			color: $col-gray-1;
+		}
+
+		&_check {
+			&:hover {
+				background-color: $col-white-1;
+			}
+		}
+	}
+}
+
+.check_con {
+	input[type="checkbox"] {
+		display: none;
+	}
+}
+
+.check {
+	&_toog {
+		width: 2.7rem;
+		height: 2.7rem;
+		position: relative;
+		display: inline-block;
+		svg {
+			position: absolute;
+			fill: none;
+			height: 86%;
+			width: auto;
+		}
+		&_layer {
+			border-radius: $border-rad;
+			border: 2px solid darken($col-white-1, 13%);
+		}
+	}
+
+	&_input:checked + &_toog_layer {
+		background-color: darken($col-white-1, 13%);
+	}
+	&_input:checked ~ svg {
+		fill: $col-white;
+	}
+	svg {
+		display: none;
+	}
+}
+
+.dummy_check {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	border: 2px solid $col-black;
+	border-radius: $border-rad;
+	color: $col-black;
+
+	&::before {
+		display: none;
+		transform: scale(0);
+	}
+	&.checked {
+		background-color: $col-black;
+	}
+
+	&.checked::before {
+		display: block;
+		content: "";
+		width: 15px;
+		height: 10px;
+		border-bottom: 2px solid $col-white-1;
+		border-left: 2px solid $col-white-1;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -80%) rotate(-45deg) scale(1);
+		animation: animm 0.17s ease-in-out forwards;
+	}
+}
+
+@keyframes animm {
+	from {
+		transform: translate(-50%, -80%) rotate(40deg) scale(0);
+	}
+	to {
+		transform: translate(-50%, -80%) rotate(-45deg) scale(1);
+	}
+}

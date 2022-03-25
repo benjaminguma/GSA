@@ -1,0 +1,73 @@
+[  
+    { 
+        "title":"solution special program",
+       "eventType":"regular",
+       "speaker":"",
+       "description":"nice end of month program for believers",
+       "cover":"./cover1.jpg",
+       "location":"big church",
+       "duration":180,
+       "day":["tuesday","wednesday","thursday","friday"],
+       "week":3,
+       "date":0,
+       "time":"16:00"
+    },
+    {   
+        "title":"phophetic cross over to a new month",
+       "eventType":"regular",
+       "speaker":"",
+       "description":"cross over to a new month filled with blessings ",
+       "cover":"./cover1.jpg",
+       "location":"big church",
+       "duration":90,
+       "day":["lastday"],
+       "dayCount":0,
+       "week":100,
+       "date":0,
+       "time":"17:30"
+    },
+    {   
+        "title":"hours of impact",
+       "eventType":"regular",
+       "speaker":"",
+       "description":"the hours of impact",
+       "cover":"./cover1.jpg",
+       "location":"big church",
+       "duration":180,
+       "day":["sunday"],
+       "dayCount":0,
+       "week":100,
+       "date":0,
+       "time":"16:00"
+    },
+    {   
+        "title":"I am not permitted to die",
+       "eventType":"regular",
+       "speaker":"",
+       "description":"",
+       "cover":"./cover1.jpg",
+       "location":"big church",
+       "duration":180,
+       "day":["saturday"],
+       "dayCount":1,
+       "week":100,
+       "date":0,
+       "time":"16:00"
+    },
+    {   
+        "title":"mothers of the living",
+       "eventType":"regular",
+       "speaker":"",
+       "description":"an event for the moms",
+       "cover":"./cover1.jpg",
+       "location":"big church",
+       "duration":180,
+       "day":["wednesday"],
+       "dayCount":2,
+       "week":100,
+       "date":0,
+       "time":"16:00"
+    }
+
+   
+]

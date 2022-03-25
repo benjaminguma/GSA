@@ -1,0 +1,54 @@
+@import "abstract/_abstract.scss";
+[class~="heading_"],
+[class^="heading"] {
+	display: inline-block;
+}
+.heading {
+	&_nano {
+		font-size: 1.2rem;
+	}
+	&_tiny {
+		font-size: 1.4rem;
+		font-weight: $weight-1;
+	}
+	&_small {
+		font-size: 1.5rem;
+		font-weight: $weight-1;
+	}
+
+	&_med {
+		font-size: 1.9rem;
+		font-weight: $weight-2;
+	}
+	&_large {
+		font-size: 2.2rem;
+		font-weight: $weight-3;
+	}
+	&_big{
+		font-size: 3rem;
+		font-weight: $weight-3;
+	}
+	&_huge{
+		font-size: 4.5rem;
+		font-weight: $weight-3;
+	}
+}
+.small {
+	display: inline-block;
+	font-size: 1.3rem;
+}
+.smaller {
+	display: inline-block;
+	font-size: 1.2rem;
+}
+.weit {
+	&-1 {
+		font-weight: $weight-1;
+	}
+	&-2 {
+		font-weight: $weight-2;
+	}
+	&-3 {
+		font-weight: $weight-3;
+	}
+}

@@ -1,0 +1,82 @@
+@import "../../../../css/abstract/abstract";
+.main_header{
+ position: fixed;
+ top: 0;
+ left: 0;
+ right: 0;
+ z-index: 10;
+
+ .home_actions{
+   position: absolute;
+   top: 100%;
+   left: 0;
+   right: 0;
+   padding-top: 3rem;
+   padding-bottom: 5rem;
+ }
+}
+
+
+.main_nav{
+  padding: 2rem 0;
+
+
+  &.bg-w  .toog span{
+
+    &,
+    &::before,
+    &::after{
+
+      background-color: $col-black-2;
+    }
+  }
+}
+
+
+.toog {
+    cursor: pointer;
+    &:hover {
+      span {
+        // background-color: $col-blue;
+        &::before,
+        &::after {
+          background-color: $col-white;
+        }
+        &::before {
+          transform: translateY(-1rem);
+        }
+        &::after {
+          transform: translateY(1rem);
+        }
+      }
+    }
+    span {
+      position: relative;
+      width: 3.9rem;
+      display: inline-block;
+      height: 4px;
+      border-radius: 5px;
+      background-color: $col-bord-1;
+      transform-origin: right;
+
+      &::before,
+      &::after {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: 3.9rem;
+        left: 0;
+        transform-origin: left;
+        background-color: $col-bord-1;
+        transition: 0.2s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      }
+      &::before {
+        top: 0;
+        transform: scaleX(1) translateY(-1.2rem);
+      }
+      &::after {
+        bottom: 0;
+        transform: scaleX(1) translateY(1.2rem);
+      }
+    }
+  }

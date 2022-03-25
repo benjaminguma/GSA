@@ -1,0 +1,37 @@
+{
+  "name": "Test_security",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.0",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18",
+    "multer": "^1.4.2",
+    "node-cron": "^3.0.0",
+    "nodemailer": "^6.4.13",
+    "nodemailer-mailgun-transport": "^2.0.1",
+    "nodemailer-pug-engine": "^1.0.2",
+    "nodemon": "^2.0.4",
+    "pug": "^3.0.0",
+    "url-safe-base64": "^1.1.1",
+    "web-push": "^3.4.5"
+  },
+  "devDependencies": {
+    "@types/config": "0.0.36"
+  }
+}

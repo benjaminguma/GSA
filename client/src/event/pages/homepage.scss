@@ -1,0 +1,252 @@
+@import "abstract/abstract";
+.home {
+	padding: 0 2rem;
+	padding-top: 5rem;
+	padding-bottom: 12rem;
+	min-height: 100vh;
+	background-image: url(../../images/svg/home.svg);
+	background-size: cover;
+	position: relative;
+
+	
+
+  
+
+
+	&_actions {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 3rem;
+		
+
+		& > * {
+
+			&,
+			& svg {
+				transition: 0.15s linear;
+			}
+			svg {
+				filter: saturate(0);
+				height: 3rem;
+			}
+
+			&:hover {
+				transform: translateY(-2px);
+
+				svg {
+					filter: saturate(3);
+				}
+			}
+		}
+
+
+	}
+}
+
+.item_card {
+	color: inherit;
+	justify-items: center;
+	border: 2px solid transparent;
+
+
+	&:active {
+		transform: translateY(1px);
+	}
+}
+
+
+
+.hero{
+	min-height: 97vh;
+	background-color: #fff;
+	background-image: url("../../images/photos/Twinkle\ Star-0.7s-1366px.svg");
+    // background-position: 8% 80%;
+	background-size:390%;
+	background-repeat: no-repeat;
+	padding-top: 7rem;
+
+	.container{
+		flex-direction: column;
+		gap: 5rem;
+	}
+
+	&_img_con{
+		position: absolute;
+		top: 60%;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 4;
+
+	}
+
+	&_img{
+		width: 35rem;
+		height: 35rem;
+
+       
+	 
+        
+		border: 12px solid $col-blue;
+        overflow: hidden;
+		img{
+		   height: 100%;
+		   object-fit: cover;
+		}
+	
+	}
+
+
+
+	&_content{
+		width:78%;
+	}
+
+	h1{
+		font-size: 4.8rem;
+	}
+}
+
+.base_img{
+	position: absolute;
+	top: 77%;
+	left: -1rem;
+	right: 0;
+	z-index: 2;
+	width: 200%;
+	border-radius: 12rem 0 0 0;
+	border-top: 2px solid lighten($col-blue, 5);
+	
+	
+}
+
+
+.program_events{
+	padding: 9rem 0;
+
+	&_pack{
+		display: grid;
+		gap: 2rem;
+	}
+
+}
+
+
+.vision{
+  padding: 8rem 0;
+
+	&_box{
+		
+		width: 84%;
+		margin: auto;
+		padding: 7rem 3rem;
+		border-bottom: 10px solid $col-blue;
+		background-color: $col-black-2;
+&::before{
+	content: ",,";
+	font-family:"Gotham-bold";
+	font-size: 22rem;
+	line-height: 0;
+    text-shadow: 4px 2px rgba($col-black, 1);
+	position: absolute;
+	top: 0%;
+	left: 3%;
+	color: hsl(213, 90%, 74%);
+	letter-spacing: -9px;
+}
+	}
+}
+
+
+.about{
+   padding: 8rem 0;
+	&_box{
+		margin: auto;
+		padding: 4rem;
+		padding-top: 20rem;
+        width: 84%;
+		border-bottom: 10px solid $col-black-2;
+		z-index: 3;
+		position: relative;
+		background-color: $col-blue-2;
+	}
+
+	&_img{
+		position: absolute;
+		transform: scale(2.8) ;
+		top: 70%;
+		right: 0;
+	}
+}
+
+.bio_img{
+	position: absolute;
+	font-size: 10rem;
+	top: -8%;
+	left: -15%;
+	width: 25rem;
+	height: 25rem;
+	border: 20px solid $col-white-1;
+	background-color: $col-black-2;
+
+}
+
+
+.channel{
+	padding: 13rem 0;
+    background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+	background-image: url("../../images//photos/team-voyas-bvHWrljtz8U-unsplash.jpg") ,  linear-gradient( 90deg, rgba(81, 159, 252,.2),rgba(81, 159, 252,.2));
+   background-blend-mode: color-burn;
+
+
+}
+
+
+
+.main_footer{
+	padding-top: 10rem;
+	padding-bottom: 40rem;
+	position: relative;
+	overflow: hidden;
+
+
+	.base_img{
+		border-radius: initial;
+		z-index:0;
+        top: -1%;
+		border-top-color: $col-blue-light-1;
+		transform: rotate(180deg);
+	}
+
+	.links_pack{
+		a:link,
+		a:visited{
+            color: $col-black-2;
+	
+
+
+	}
+}
+
+
+.socials{
+	   a{
+		   &,&:link,&:visited{
+			
+             width: 5rem;
+			 height:5rem;
+			 background-color: $col-black-2;
+		   }
+
+		   &:hover{
+			   color:$col-white-1;
+		   }
+		}
+
+
+		   svg{
+			   fill: currentColor;
+		   }
+	   }
+}

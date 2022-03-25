@@ -1,0 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+@import "abstract/_abstract.scss";
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	line-height: normal;
+}
+html {
+	font-size: 56%;
+}
+@font-face {
+	font-family: "Millik";
+	src: url("../font/millik/Millik.ttf");
+}
+@font-face {
+	font-family: "Gotham-bold" ;
+	src: url("../font/gotham/Gotham-Thin.otf");
+	src: url("../font/gotham/Gotham-Bold.otf");
+	src: url("../font/gotham/GothamBook.ttf");
+	src: url("../font/gotham/Gotham-Light.otf");
+	src: url("../font/gotham/GothamMedium.ttf");
+	src: url("../font/gotham/GothamMedium_1.ttf");
+}
+body {
+	font-family: "Gotham", sans-serif;
+	min-height: 100vh;
+	overflow-x: hidden;
+	background-color: $col-white-1;
+}
+
+button {
+	background: transparent;
+	border: none;
+	cursor: pointer;
+	font-family: inherit;
+}
+
+a:link,
+a:visited {
+	text-decoration: none;
+}
+li {
+	list-style-type: none;
+}

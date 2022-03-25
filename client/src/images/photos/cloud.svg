@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="1366" height="657" preserveAspectRatio="xMidYMid" viewBox="0 0 1366 657"
+    style="z-index:1;margin-right:-2px;display:block;background-repeat-y:initial;background-repeat-x:initial;background-color:rgb(153, 204, 255);animation-play-state:paused">
+    <g transform="translate(683,328.5) scale(1,1) translate(-683,-328.5)"
+        style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused">
+        <defs style="animation-play-state:paused">
+            <linearGradient id="lg-0.6054373573788145" x1="0" x2="0" y1="0" y2="1" style="animation-play-state:paused">
+                <stop stop-color="#07131A" offset="0" style="animation-play-state:paused"></stop>
+
+
+                <stop stop-color="#0b222d" offset="1" style="animation-play-state:paused"></stop>
+
+            </linearGradient>
+        </defs>
+
+
+        <rect x="0" y="0" width="1366" height="657" fill="url(#lg-0.6054373573788145)"
+            style="animation-play-state:paused"></rect>
+        <circle cx="0" cy="227.9339132564728" r="47.55507228627266" fill="#91cbf0" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="47.55507228627266" cy="228.09344620041693" r="50.971078885041706" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.005429744720458984,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.00542974, 0);animation-play-state:paused"></circle>
+        <circle cx="98.52615117131437" cy="246.8025686216822" r="37.19705293298465" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.022117653861641884,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0221177, 0);animation-play-state:paused"></circle>
+        <circle cx="135.72320410429901" cy="230.97475009697297" r="56.186141334228445" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.05069183558225632,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0506918, 0);animation-play-state:paused"></circle>
+        <circle cx="191.90934543852745" cy="222.8299121802021" r="72.05419472371362" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.09182170033454895,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918217, 0);animation-play-state:paused"></circle>
+        <circle cx="263.9635401622411" cy="247.11556620750645" r="51.45747200273718" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.14621886610984802,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.146219, 0);animation-play-state:paused"></circle>
+        <circle cx="315.42101216497826" cy="245.67105822895587" r="60.89772112164206" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.21463720500469208,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.214637, 0);animation-play-state:paused"></circle>
+        <circle cx="376.31873328662033" cy="258.23576657048454" r="49.67147061252596" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.2978716492652893,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.297872, 0);animation-play-state:paused"></circle>
+        <circle cx="425.9902038991463" cy="266.8178979725752" r="40.26557182233498" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.3967548906803131,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.396755, 0);animation-play-state:paused"></circle>
+        <circle cx="466.2557757214813" cy="269.53867024431344" r="40.60119040574794" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.5121519565582275,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.512152, 0);animation-play-state:paused"></circle>
+        <circle cx="506.85696612722927" cy="265.36121490286325" r="63.45832477936141" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.6449503302574158,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.64495, 0);animation-play-state:paused"></circle>
+        <circle cx="570.3152909065907" cy="275.7091228951336" r="46.92790703131663" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.7960466146469116,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.796047, 0);animation-play-state:paused"></circle>
+        <circle cx="617.2431979379073" cy="276.63354737658483" r="72.41693333865669" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-0.9663257002830505,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="689.660131276564" cy="283.9642262805606" r="88.51595424083008" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-1.156632423400879,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.15663, 0);animation-play-state:paused"></circle>
+        <circle cx="778.1760855173941" cy="272.3829518837632" r="75.45176060197406" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-1.3677335977554321,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.36773, 0);animation-play-state:paused"></circle>
+        <circle cx="853.6278461193681" cy="267.6296445968413" r="57.94263661228344" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-1.600266933441162,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.60027, 0);animation-play-state:paused"></circle>
+        <circle cx="911.5704827316515" cy="256.35845467633453" r="71.32072647889423" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-1.8546782732009888,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+        <circle cx="982.8912092105458" cy="265.3906062747786" r="37.21687371670392" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-2.131143569946289,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.13114, 0);animation-play-state:paused"></circle>
+        <circle cx="1020.1080829272497" cy="251.39108150433867" r="56.74463793434296" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-2.4294803142547607,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.42948, 0);animation-play-state:paused"></circle>
+        <circle cx="1076.8527208615926" cy="252.93729546751288" r="46.334636518829534" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-2.749046802520752,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.74905, 0);animation-play-state:paused"></circle>
+        <circle cx="1123.187357380422" cy="231.85827290360865" r="68.71278596541536" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-3.0886495113372803,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="1191.9001433458375" cy="227.53081076149266" r="64.27498066686218" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-3.446460723876953,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.44646, 0);animation-play-state:paused"></circle>
+        <circle cx="1256.1751240126996" cy="202.093904328816" r="82.32629809396624" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-3.819972276687622,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.81997, 0);animation-play-state:paused"></circle>
+        <circle cx="1338.5014221066658" cy="180.8388909952497" r="90.4422617696319" fill="#91cbf0"
+            transform="matrix(1,0,0,1,-4.205999374389648,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.206, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="281.5167195500082" r="54.569400374993165" fill="#a0d2f1" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="54.569400374993165" cy="306.7448180216804" r="36.458930797341985" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.022117653861641884,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0221177, 0);animation-play-state:paused"></circle>
+        <circle cx="91.02833117233516" cy="283.73489215080906" r="60.827895061501636" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.09182170033454895,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918217, 0);animation-play-state:paused"></circle>
+        <circle cx="151.8562262338368" cy="313.9351043416935" r="35.43190634068269" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.21463720500469208,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.214637, 0);animation-play-state:paused"></circle>
+        <circle cx="187.28813257451947" cy="271.1308310005676" r="87.11149532579722" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.3967548906803131,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.396755, 0);animation-play-state:paused"></circle>
+        <circle cx="274.39962790031666" cy="309.81878507909744" r="51.79219013041969" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.6449503302574158,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.64495, 0);animation-play-state:paused"></circle>
+        <circle cx="326.19181803073633" cy="310.77645714848495" r="57.78240012845329" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-0.9663257002830505,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="383.9742181591896" cy="299.0284104653392" r="91.30928290551192" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-1.3677335977554321,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.36773, 0);animation-play-state:paused"></circle>
+        <circle cx="475.2835010647015" cy="333.76005602399397" r="36.27894181879155" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-1.8546782732009888,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+        <circle cx="511.5624428834931" cy="334.45393538734567" r="41.65249374450837" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-2.4294803142547607,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.42948, 0);animation-play-state:paused"></circle>
+        <circle cx="553.2149366280014" cy="330.03188506383833" r="74.41291907490563" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-3.0886495113372803,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="627.627855702907" cy="341.3724182059747" r="57.845546921821864" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-3.819972276687622,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.81997, 0);animation-play-state:paused"></circle>
+        <circle cx="685.4734026247289" cy="346.7236913253996" r="63.582728392478224" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-4.60075569152832,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="749.0561310172071" cy="343.05621910918325" r="33.981230646178155" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-5.399243354797363,0)"
+            style="transform:matrix(1, 0, 0, 1, -5.39924, 0);animation-play-state:paused"></circle>
+        <circle cx="783.0373616633852" cy="338.76636163957835" r="46.845622697536804" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-6.180027961730957,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="829.882984360922" cy="335.5566480557352" r="44.342607211782294" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-6.911351203918457,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91135, 0);animation-play-state:paused"></circle>
+        <circle cx="874.2255915727043" cy="316.92662787164465" r="89.51082765098636" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-7.57051944732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57052, 0);animation-play-state:paused"></circle>
+        <circle cx="963.7364192236906" cy="313.74388969719377" r="67.42363352673945" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-8.1453218460083,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.14532, 0);animation-play-state:paused"></circle>
+        <circle cx="1031.1600527504302" cy="293.41212963817765" r="87.60462122708648" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="1118.7646739775166" cy="306.4130882011534" r="53.01190912973229" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.033674240112305,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.03367, 0);animation-play-state:paused"></circle>
+        <circle cx="1171.7765831072488" cy="316.5828641384937" r="35.41990436158422" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.355050086975098,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="1207.196487468833" cy="274.3339173430521" r="78.9000175206984" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.60324478149414,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.60324, 0);animation-play-state:paused"></circle>
+        <circle cx="1286.0965049895315" cy="276.6417729121408" r="66.39991651894633" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.785362243652344,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="1352.4964215084779" cy="302.46845715421796" r="37.8581109454618" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.908178329467773,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.90818, 0);animation-play-state:paused"></circle>
+        <circle cx="1390.3545324539396" cy="245.14456836688873" r="81.95708636148093" fill="#a0d2f1"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="354.9955941477607" r="45.00367154353274" fill="#aed8f3" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="45.00367154353274" cy="358.61019586141384" r="44.9535453047709" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-0.05069185048341751,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0506919, 0);animation-play-state:paused"></circle>
+        <circle cx="89.95721684830363" cy="348.0724841357831" r="58.474552086145906" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-0.21463724970817566,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.214637, 0);animation-play-state:paused"></circle>
+        <circle cx="148.43176893444954" cy="376.9130024503245" r="34.16373884075962" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-0.5121520161628723,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.512152, 0);animation-play-state:paused"></circle>
+        <circle cx="182.59550777520917" cy="374.47576760688094" r="39.26831708295249" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-0.9663259983062744,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="221.86382485816165" cy="372.0106359023435" r="45.654872032338865" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-1.6002674102783203,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.60027, 0);animation-play-state:paused"></circle>
+        <circle cx="267.5186968905005" cy="386.0229406485516" r="31.476208876285924" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-2.429480791091919,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.42948, 0);animation-play-state:paused"></circle>
+        <circle cx="298.9949057667864" cy="352.41304740604306" r="83.87234354023173" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-3.4464619159698486,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.44646, 0);animation-play-state:paused"></circle>
+        <circle cx="382.86724930701814" cy="375.328034391974" r="63.8549454565838" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-4.600757122039795,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="446.7221947636019" cy="392.77862022508094" r="39.07548000959033" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-5.794002532958984,0)"
+            style="transform:matrix(1, 0, 0, 1, -5.794, 0);animation-play-state:paused"></circle>
+        <circle cx="485.7976747731922" cy="392.7888325955126" r="46.78877951248984" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-6.911351680755615,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91135, 0);animation-play-state:paused"></circle>
+        <circle cx="532.5864542856821" cy="392.4731098080521" r="62.5379513277547" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-7.868857383728027,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.86886, 0);animation-play-state:paused"></circle>
+        <circle cx="595.1244056134368" cy="394.9779412637309" r="90.82030666693103" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="685.9447122803679" cy="408.5845886142058" r="80.29250101077255" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.203954696655273,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.20395, 0);animation-play-state:paused"></circle>
+        <circle cx="766.2372132911404" cy="403.8532739063991" r="35.192731941843675" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.603245735168457,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.60325, 0);animation-play-state:paused"></circle>
+        <circle cx="801.4299452329841" cy="400.3842008644545" r="41.406974097647414" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.853781700134277,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.85378, 0);animation-play-state:paused"></circle>
+        <circle cx="842.8369193306315" cy="400.17025066067487" r="31.442041175544503" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="874.2789605061761" cy="381.0404628609705" r="83.19595899545088" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.994569778442383,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.99457, 0);animation-play-state:paused"></circle>
+        <circle cx="957.4749195016269" cy="367.60366818177573" r="85.84176738620496" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.908178329467773,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.90818, 0);animation-play-state:paused"></circle>
+        <circle cx="1043.3166868878318" cy="379.5692619868593" r="46.489645531443" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.702127456665039,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.70213, 0);animation-play-state:paused"></circle>
+        <circle cx="1089.806332419275" cy="364.29774938060234" r="62.54335036092219" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-9.355048179626465,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="1152.349682780197" cy="355.69526219368436" r="64.64110033066669" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-8.843366622924805,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.84337, 0);animation-play-state:paused"></circle>
+        <circle cx="1216.9907831108637" cy="377.4304723454591" r="33.64912540006464" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-8.145318984985352,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.14532, 0);animation-play-state:paused"></circle>
+        <circle cx="1250.6399085109283" cy="318.5622949676087" r="90.68095167815073" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-7.250951766967773,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.25095, 0);animation-play-state:paused"></circle>
+        <circle cx="1341.320860189079" cy="310.96089468917665" r="84.76199699447" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-6.180024147033691,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18002, 0);animation-play-state:paused"></circle>
+        <circle cx="1426.082857183549" cy="354.0340998808964" r="42.10130518916747" fill="#aed8f3"
+            transform="matrix(1,0,0,1,-4.999997615814209,0)"
+            style="transform:matrix(1, 0, 0, 1, -5, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="423.74823073804146" r="39.376474384965434" fill="#bcdef4" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="39.376474384965434" cy="401.8154231232787" r="61.18103742096555" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-0.09182170033454895,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918217, 0);animation-play-state:paused"></circle>
+        <circle cx="100.55751180593099" cy="413.2777759976425" r="56.40654054939367" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-0.3967548906803131,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.396755, 0);animation-play-state:paused"></circle>
+        <circle cx="156.96405235532467" cy="392.2014127665057" r="85.25943794249072" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-0.9663257002830505,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="242.22349029781537" cy="408.42057445016036" r="80.8076706859511" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-1.8546782732009888,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+        <circle cx="323.0311609837665" cy="414.8547460719173" r="88.77437034475997" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-3.0886495113372803,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="411.80553132852646" cy="439.03137225336314" r="67.09383632194546" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-4.60075569152832,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="478.8993676504719" cy="455.09452345097486" r="44.35491926183844" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-6.180027961730957,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="523.2542869123104" cy="455.6566124107822" r="54.66778795332055" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-7.57051944732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57052, 0);animation-play-state:paused"></circle>
+        <circle cx="577.9220748656309" cy="456.38147089884313" r="79.18294417628974" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="657.1050190419206" cy="467.9228741550428" r="67.63463015954419" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.355050086975098,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="724.7396492014648" cy="464.6604235162117" r="86.44719551762627" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.785362243652344,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="811.186844719091" cy="463.3422805979193" r="34.00129425060902" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="845.1881389697" cy="451.59181654393035" r="68.10911792883945" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="913.2972568985394" cy="451.3934359435218" r="48.456515978948914" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.78536319732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="961.7537728774884" cy="454.5246604066688" r="33.63977470776312" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-9.355049133300781,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="995.3935475852514" cy="438.0194201371309" r="60.089098671797345" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="1055.4826462570488" cy="421.67604208505816" r="75.36875340463764" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-7.57051944732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57052, 0);animation-play-state:paused"></circle>
+        <circle cx="1130.8513996616864" cy="433.0743400920904" r="48.19907104728256" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-6.180026531219482,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="1179.050470708969" cy="431.11936771225777" r="45.75890536164929" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-4.600756645202637,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="1224.8093760706183" cy="393.56217582229425" r="81.34785075295474" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-3.088648796081543,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="1306.1572268235732" cy="388.76113297757666" r="75.1136628105703" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-1.8546791076660156,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+        <circle cx="1381.2708896341435" cy="386.97547407485433" r="68.48912083979224" fill="#bcdef4"
+            transform="matrix(1,0,0,1,-0.9663257598876953,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="480.8810124983309" r="43.432489584724244" fill="#cae5f6" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="43.432489584724244" cy="468.8197138795456" r="57.115595964487405" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-0.14621886610984802,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.146219, 0);animation-play-state:paused"></circle>
+        <circle cx="100.54808554921165" cy="438.1099549953743" r="92.72568133982152" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-0.6449503302574158,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.64495, 0);animation-play-state:paused"></circle>
+        <circle cx="193.27376688903317" cy="498.86996987551515" r="39.6663976029732" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-1.600266933441162,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.60027, 0);animation-play-state:paused"></circle>
+        <circle cx="232.94016449200637" cy="460.9761697653736" r="91.08469616920553" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-3.0886495113372803,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="324.0248606612119" cy="485.5868662748084" r="75.17505342652656" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-5,0)" style="transform:matrix(1, 0, 0, 1, -5, 0);animation-play-state:paused">
+        </circle>
+        <circle cx="399.1999140877385" cy="512.193251425803" r="41.72834441568226" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-6.911351203918457,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91135, 0);animation-play-state:paused"></circle>
+        <circle cx="440.92825850342075" cy="499.6318156675697" r="78.45632097241975" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-8.39973258972168,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.39973, 0);animation-play-state:paused"></circle>
+        <circle cx="519.3845794758405" cy="513.0231241147642" r="69.49327772154882" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-9.355050086975098,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="588.8778571973893" cy="521.6303613348484" r="68.7534213263713" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-9.853780746459961,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.85378, 0);animation-play-state:paused"></circle>
+        <circle cx="657.6312785237606" cy="529.7814407600318" r="72.21083789333431" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-10,0)" style="transform:matrix(1, 0, 0, 1, -10, 0);animation-play-state:paused">
+        </circle>
+        <circle cx="729.8421164170949" cy="527.1477189381576" r="71.10958170006383" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-9.853780746459961,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.85378, 0);animation-play-state:paused"></circle>
+        <circle cx="800.9516981171587" cy="521.8420911286763" r="53.84161398807281" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-9.355049133300781,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="854.7933121052315" cy="511.2980272177911" r="71.90058423796128" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-8.399733543395996,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.39973, 0);animation-play-state:paused"></circle>
+        <circle cx="926.6938963431928" cy="503.3246478496911" r="69.30916825985832" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-6.911350727081299,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91135, 0);animation-play-state:paused"></circle>
+        <circle cx="996.0030646030511" cy="496.3985259680494" r="66.55634185649701" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-5,0)" style="transform:matrix(1, 0, 0, 1, -5, 0);animation-play-state:paused">
+        </circle>
+        <circle cx="1062.5594064595482" cy="496.7862454805036" r="54.304178994292386" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-3.088648796081543,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="1116.8635854538406" cy="470.0683301293974" r="82.5573059572403" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-1.600266456604004,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.60027, 0);animation-play-state:paused"></circle>
+        <circle cx="1199.420891411081" cy="484.27926592913906" r="53.69693261807109" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-0.6449508666992188,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.644951, 0);animation-play-state:paused"></circle>
+        <circle cx="1253.117824029152" cy="459.41017029824826" r="73.46705594275895" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-0.14621925354003906,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.146219, 0);animation-play-state:paused"></circle>
+        <circle cx="1326.5848799719108" cy="485.6270359494029" r="41.895191882032684" fill="#cae5f6"
+            transform="matrix(1,0,0,1,0,0)" style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused">
+        </circle>
+        <circle cx="1368.4800718539434" cy="441.5347772501898" r="75.94525076073391" fill="#cae5f6"
+            transform="matrix(1,0,0,1,-0.14621886610984802,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.146219, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="551.7125820529872" r="36.07284828917737" fill="#d8ebf7" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="36.07284828917737" cy="551.1663698576541" r="38.56483854486702" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.2146373838186264,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.214637, 0);animation-play-state:paused"></circle>
+        <circle cx="74.63768683404439" cy="542.8000715895575" r="48.83678461112275" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.9663266539573669,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966327, 0);animation-play-state:paused"></circle>
+        <circle cx="123.47447144516714" cy="518.0547254287403" r="78.27111223430711" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-2.4294822216033936,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.42948, 0);animation-play-state:paused"></circle>
+        <circle cx="201.74558367947424" cy="561.5266257512039" r="39.588060279916725" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-4.600759983062744,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="241.33364395939097" cy="534.1085630275666" r="78.46958622982999" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-6.911355018615723,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91136, 0);animation-play-state:paused"></circle>
+        <circle cx="319.8032301892209" cy="561.5679751649044" r="52.39141896890253" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-8.632269859313965,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="372.19464915812347" cy="562.8274388313858" r="58.91645478068234" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-9.603246688842773,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.60325, 0);animation-play-state:paused"></circle>
+        <circle cx="431.1111039388058" cy="561.3985798589972" r="75.9255711386125" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="507.0366750774183" cy="583.4840091363083" r="37.24934236230764" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-9.908177375793457,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.90818, 0);animation-play-state:paused"></circle>
+        <circle cx="544.2860174397259" cy="581.3700578962721" r="55.92593169666663" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-9.355046272277832,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="600.2119491363926" cy="588.6835692724278" r="43.42537099183639" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-8.14531421661377,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.14531, 0);animation-play-state:paused"></circle>
+        <circle cx="643.637320128229" cy="590.6921263798848" r="62.289917169502324" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-6.180017471313477,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18002, 0);animation-play-state:paused"></circle>
+        <circle cx="705.9272372977314" cy="591.8145116820173" r="79.07946972011526" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-3.8199596405029297,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.81996, 0);animation-play-state:paused"></circle>
+        <circle cx="785.0067070178467" cy="579.8692484641153" r="84.42503113382843" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-1.8546695709228516,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85467, 0);animation-play-state:paused"></circle>
+        <circle cx="869.4317381516751" cy="579.6444971174905" r="46.87957360306256" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.6449451446533203,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.644945, 0);animation-play-state:paused"></circle>
+        <circle cx="916.3113117547376" cy="576.8346430055435" r="44.314678150768515" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.09181976318359375,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918198, 0);animation-play-state:paused"></circle>
+        <circle cx="960.6259899055061" cy="549.7203980310536" r="92.82862937086824" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.022118574008345604,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0221186, 0);animation-play-state:paused"></circle>
+        <circle cx="1053.4546192763744" cy="548.2754558193373" r="71.78761359427662" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-0.3967595100402832,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.39676, 0);animation-play-state:paused"></circle>
+        <circle cx="1125.242232870651" cy="530.6635612089976" r="82.80112953976766" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-1.367743968963623,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.36774, 0);animation-play-state:paused"></circle>
+        <circle cx="1208.0433624104185" cy="519.7029722572513" r="81.6247977947914" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-3.0886662006378174,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08867, 0);animation-play-state:paused"></circle>
+        <circle cx="1289.66816020521" cy="524.3530254369476" r="66.27989675366511" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-5.399263381958008,0)"
+            style="transform:matrix(1, 0, 0, 1, -5.39926, 0);animation-play-state:paused"></circle>
+        <circle cx="1355.948056958875" cy="485.6691402548996" r="92.46996162843882" fill="#d8ebf7"
+            transform="matrix(1,0,0,1,-7.570536136627197,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57054, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="618.0477574446813" r="32.46020212943225" fill="#e5f2f9" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="32.46020212943225" cy="619.1104440998399" r="33.150119798612444" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-0.297871857881546,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.297872, 0);animation-play-state:paused"></circle>
+        <circle cx="65.6103219280447" cy="564.0021905374334" r="85.73394583532671" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-1.3677345514297485,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.36773, 0);animation-play-state:paused"></circle>
+        <circle cx="151.34426776337142" cy="580.8991104928795" r="81.47018264792811" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-3.4464633464813232,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.44646, 0);animation-play-state:paused"></circle>
+        <circle cx="232.81445041129953" cy="601.0546102835438" r="70.73139288761008" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-6.1800312995910645,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="303.54584329890963" cy="623.6246950439042" r="50.06167605592579" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-8.399735450744629,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.39974, 0);animation-play-state:paused"></circle>
+        <circle cx="353.6075193548354" cy="617.2043197879196" r="68.76409142576135" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.603246688842773,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.60325, 0);animation-play-state:paused"></circle>
+        <circle cx="422.37161078059677" cy="632.3757108393049" r="53.77512642657868" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.9945707321167,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.99457, 0);animation-play-state:paused"></circle>
+        <circle cx="476.1467372071754" cy="644.8327212470824" r="33.47885064369627" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.785361289978027,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="509.6255878508717" cy="629.2238951034763" r="91.18550333332794" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-8.843363761901855,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.84336, 0);animation-play-state:paused"></circle>
+        <circle cx="600.8110911841997" cy="647.2058531709794" r="67.82547650086258" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-6.911342620849609,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.91134, 0);animation-play-state:paused"></circle>
+        <circle cx="668.6365676850622" cy="654.7655174531895" r="88.54380728833773" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-4.205990791320801,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.20599, 0);animation-play-state:paused"></circle>
+        <circle cx="757.1803749733999" cy="646.4196891858035" r="81.17996492432043" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-1.8546714782714844,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85467, 0);animation-play-state:paused"></circle>
+        <circle cx="838.3603398977203" cy="641.320309610041" r="57.4429556442367" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-0.5121488571166992,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.512149, 0);animation-play-state:paused"></circle>
+        <circle cx="895.803295541957" cy="627.866712336454" r="77.92029811508375" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-0.022116661071777344,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0221167, 0);animation-play-state:paused"></circle>
+        <circle cx="973.7235936570407" cy="638.9118165430697" r="35.41229989190739" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-0.14622078835964203,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.146221, 0);animation-play-state:paused"></circle>
+        <circle cx="1009.1358935489482" cy="633.8340180034471" r="40.42886727234487" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-0.9663317203521729,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966332, 0);animation-play-state:paused"></circle>
+        <circle cx="1049.564760821293" cy="611.1573080140786" r="71.18014325816225" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-2.749058246612549,0)"
+            style="transform:matrix(1, 0, 0, 1, -2.74906, 0);animation-play-state:paused"></circle>
+        <circle cx="1120.7449040794552" cy="589.1138856918419" r="88.26719176772725" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-5.399258613586426,0)"
+            style="transform:matrix(1, 0, 0, 1, -5.39926, 0);animation-play-state:paused"></circle>
+        <circle cx="1209.0120958471825" cy="604.8531625583247" r="56.42501736786976" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-7.868867874145508,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.86887, 0);animation-play-state:paused"></circle>
+        <circle cx="1265.4371132150522" cy="579.6259336303181" r="75.611149157346" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.355055809020996,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35506, 0);animation-play-state:paused"></circle>
+        <circle cx="1341.0482623723983" cy="558.3395481713874" r="85.33453199415982" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.949310302734375,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.94931, 0);animation-play-state:paused"></circle>
+        <circle cx="1426.382794366558" cy="613.7289057114918" r="33.13025898076551" fill="#e5f2f9"
+            transform="matrix(1,0,0,1,-9.90817642211914,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.90818, 0);animation-play-state:paused"></circle>
+        <circle cx="0" cy="617.3471278192811" r="84.71072681726575" fill="#f3f8fb" transform="matrix(1,0,0,1,0,0)"
+            style="transform:matrix(1, 0, 0, 1, 0, 0);animation-play-state:paused"></circle>
+        <circle cx="84.71072681726575" cy="676.2258809517664" r="40.69202616449129" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-0.3967548906803131,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.396755, 0);animation-play-state:paused"></circle>
+        <circle cx="125.40275298175703" cy="675.9982462102332" r="43.893984405811636" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-1.8546782732009888,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+        <circle cx="169.29673738756867" cy="659.463480459744" r="65.9645457561132" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-4.60075569152832,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="235.26128314368185" cy="647.1140429568259" r="91.38162283056808" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-7.57051944732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57052, 0);animation-play-state:paused"></circle>
+        <circle cx="326.6429059742499" cy="676.6950912640202" r="67.568583010039" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.355050086975098,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="394.2114889842889" cy="701.2479795074235" r="34.987050886551664" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="429.1985398708406" cy="678.5853277743787" r="90.63259235536601" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.78536319732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="519.8311322262066" cy="698.0742414728526" r="72.99336197441576" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="592.8244942006223" cy="714.0244878834022" r="31.404266837870363" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-6.180026531219482,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="624.2287610384927" cy="714.1900017386627" r="46.5821501376028" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-3.088648796081543,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="670.8109111760955" cy="717.0732531584808" r="89.9689954795734" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-0.9663257598876953,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="760.7799066556689" cy="713.5144240369456" r="40.141562517687916" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-0.09182167053222656,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918217, 0);animation-play-state:paused"></circle>
+        <circle cx="800.9214691733569" cy="700.0749788680989" r="91.34461493525981" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-0.09182170033454895,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.0918217, 0);animation-play-state:paused"></circle>
+        <circle cx="892.2660841086167" cy="698.6409213486903" r="55.37308628738892" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-0.9663257002830505,0)"
+            style="transform:matrix(1, 0, 0, 1, -0.966326, 0);animation-play-state:paused"></circle>
+        <circle cx="947.6391703960056" cy="688.3190197156689" r="65.98641936629197" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-3.0886495113372803,0)"
+            style="transform:matrix(1, 0, 0, 1, -3.08865, 0);animation-play-state:paused"></circle>
+        <circle cx="1013.6255897622976" cy="689.70687677294" r="50.4276432909758" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-6.180027961730957,0)"
+            style="transform:matrix(1, 0, 0, 1, -6.18003, 0);animation-play-state:paused"></circle>
+        <circle cx="1064.0532330532735" cy="697.6343201429363" r="31.91321246082161" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-8.632266998291016,0)"
+            style="transform:matrix(1, 0, 0, 1, -8.63227, 0);animation-play-state:paused"></circle>
+        <circle cx="1095.966445514095" cy="657.5911663432399" r="84.63608008828645" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.785362243652344,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.78536, 0);animation-play-state:paused"></circle>
+        <circle cx="1180.6025256023815" cy="646.118168358511" r="83.36354226846193" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.977882385253906,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.97788, 0);animation-play-state:paused"></circle>
+        <circle cx="1263.9660678708435" cy="655.4815349311774" r="62.22840718993951" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-9.355049133300781,0)"
+            style="transform:matrix(1, 0, 0, 1, -9.35505, 0);animation-play-state:paused"></circle>
+        <circle cx="1326.1944750607831" cy="670.5060279161224" r="42.91260810627859" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-7.57051944732666,0)"
+            style="transform:matrix(1, 0, 0, 1, -7.57052, 0);animation-play-state:paused"></circle>
+        <circle cx="1369.1070831670618" cy="681.5737259422293" r="31.0473221656388" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-4.600756645202637,0)"
+            style="transform:matrix(1, 0, 0, 1, -4.60076, 0);animation-play-state:paused"></circle>
+        <circle cx="1400.1544053327007" cy="660.9957148676136" r="46.03486414598177" fill="#f3f8fb"
+            transform="matrix(1,0,0,1,-1.8546791076660156,0)"
+            style="transform:matrix(1, 0, 0, 1, -1.85468, 0);animation-play-state:paused"></circle>
+    </g>
+</svg>

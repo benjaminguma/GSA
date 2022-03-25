@@ -1,0 +1,11 @@
+.events {
+	&_section {
+	}
+
+	&_container {
+		display: grid;
+		row-gap: 1.5rem;
+		padding: 0 1.4rem;
+		padding-bottom: 12rem;
+	}
+}
